@@ -1,0 +1,33 @@
+.mensaje{
+    color:blueviolet;
+}
+
+.Header{
+    text-align: center;
+    background-color: aqua;
+    text-decoration: double;
+
+}
+
+.Main{
+    background-color: FF33E3;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.Footer{
+    background-color: 33FF58;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+
+
+.button1, .button2{
+    padding: 25px;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-size: medium;
+}
+
