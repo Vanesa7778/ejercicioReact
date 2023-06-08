@@ -2,23 +2,54 @@
     color:blueviolet;
 }
 
-.Header{
-    text-align: center;
-    background-color: aqua;
-    text-decoration: double;
-
+Header{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
 
-.Main{
-    background-color: FF33E3;
-    text-align: center;
-    text-decoration: line-through;
+nav ol li{
+    text-align: right;
+    color: magenta;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.Footer{
-    background-color: 33FF58;
+nav ol li{
+    text-align: right;
+    color: magenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ol li{
+    text-align: right;
+    color: magenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ol li{
+    text-align: right;
+    color: magenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+Main{
+    color: aqua;
     text-align: center;
-    text-decoration: line-through;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+Footer{
+    color: springgreen;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
 }
 
 
